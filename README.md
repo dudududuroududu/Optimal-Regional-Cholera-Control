@@ -7,3 +7,4 @@ Implements a Forward-Backward Sweep Method (FBSM) to find the optimal control so
 Compares the effectiveness of regional control vs. uniform control strategies.
 Generates visualizations of infected populations and pathogen concentration over time.
 <img width="1779" height="764" alt="image" src="https://github.com/user-attachments/assets/8275f1e2-0fe3-4b44-bf53-0883720bacb7" />
+Quick Start
