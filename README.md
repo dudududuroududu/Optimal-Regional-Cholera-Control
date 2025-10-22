@@ -9,11 +9,14 @@ Compares the effectiveness of regional control vs. uniform control strategies.
 Generates visualizations of infected populations and pathogen concentration over time.
 
 🛠️ Environment Setup
+
 Before running the code, ensure you have the following software installed:
 
 MATLAB (R2023a or later recommended)
 COMSOL Multiphysics (6.0 or later) with the LiveLink for MATLAB module.
+
 🚀 Quick Start
+
 To reproduce the results from the paper (Section 5, Figures 5.1-5.4), follow these steps:
 
 <img width="1779" height="764" alt="image" src="https://github.com/user-attachments/assets/8275f1e2-0fe3-4b44-bf53-0883720bacb7" />
